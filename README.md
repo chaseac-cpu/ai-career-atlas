@@ -38,3 +38,7 @@ Pushes to main run `.github/workflows/deploy.yml`, build the site, and deploy `d
 ## Contribute
 
 Edit Markdown in `docs/`. Include original employer links and dates for research changes. Distinguish observed titles from editorial suggestions. Run `npm run docs:build` before submitting a pull request.
+
+## Tooling status
+
+The stable VitePress 1.6.4 dependency tree currently reports three npm advisories in development/build tooling (two moderate, one high), with no automatic fix available in this stable release. Keep development servers on localhost. GitHub Pages serves only the generated static files, without a Vite development server. Recheck `npm audit` when upgrading VitePress.
