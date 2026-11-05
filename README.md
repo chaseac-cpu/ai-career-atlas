@@ -8,6 +8,9 @@ A VitePress research site about emerging AI careers: Forward Deployed Engineer, 
 
 ## Inside
 
+- [Internships & entry-level hub](https://chaseac-cpu.github.io/ai-career-atlas/opportunities/getting-started.html).
+- [22 real U.S. job examples](https://chaseac-cpu.github.io/ai-career-atlas/opportunities/): seven internships/co-ops, seven entry/early-career roles, four mid-level and four senior/staff examples across 18 employers.
+- Search/filter directory, dated primary links, eligibility, level evidence, and pay-unit caveats.
 - Eight role guides and a comparison table.
 - Learning plan, portfolio ideas, and job research worksheet.
 - Dated employer sources and explicit research limitations.
@@ -38,6 +41,8 @@ Pushes to main run `.github/workflows/deploy.yml`, build the site, and deploy `d
 ## Contribute
 
 Edit Markdown in `docs/`. Include original employer links and dates for research changes. Distinguish observed titles from editorial suggestions. Run `npm run docs:build` before submitting a pull request.
+
+Job directory metadata is in `docs/data/jobs.json`. Update the matching Markdown cards in `docs/opportunities/` as well. Preserve employer wording on level and eligibility; clearly label editorial interpretations. An application page being visible is not confirmation that hiring remains open.
 
 ## Tooling status
 

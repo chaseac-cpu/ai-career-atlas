@@ -8,12 +8,16 @@ export default defineConfig({
     "logo": "/compass.svg",
     "nav": [
       {
-        "text": "Explore roles",
-        "link": "/roles/"
+        "text": "Start your career",
+        "link": "/opportunities/getting-started"
       },
       {
-        "text": "Build your path",
-        "link": "/learning-path"
+        "text": "Real jobs",
+        "link": "/opportunities/"
+      },
+      {
+        "text": "Roles",
+        "link": "/roles/"
       },
       {
         "text": "Research",
@@ -21,6 +25,43 @@ export default defineConfig({
       }
     ],
     "sidebar": [
+      {
+        "text": "Internships & job examples",
+        "items": [
+          {
+            "text": "Start here: beginner hub",
+            "link": "/opportunities/getting-started"
+          },
+          {
+            "text": "Browse all 22 examples",
+            "link": "/opportunities/"
+          },
+          {
+            "text": "Internships & co-ops",
+            "link": "/opportunities/internships"
+          },
+          {
+            "text": "Entry level & early career",
+            "link": "/opportunities/entry-level"
+          },
+          {
+            "text": "Mid-level examples",
+            "link": "/opportunities/mid-level"
+          },
+          {
+            "text": "Senior & staff examples",
+            "link": "/opportunities/senior"
+          },
+          {
+            "text": "Compare experience levels",
+            "link": "/opportunities/levels"
+          },
+          {
+            "text": "Emerging titles",
+            "link": "/opportunities/emerging-titles"
+          }
+        ]
+      },
       {
         "text": "Start here",
         "items": [

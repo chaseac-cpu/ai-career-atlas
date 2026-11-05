@@ -21,3 +21,7 @@ The employer title to investigate is **Forward Deployed Engineer (FDE)**. In the
 Prompting, retrieval, tool integration, and evaluation can be skills within many jobs. Treat narrow titles such as “Prompt Engineer” as search terms to verify, rather than assuming a universal career ladder.
 
 Compare five to ten postings in your target location. Record responsibilities, seniority, eligibility, travel, and required versus preferred skills. Use the [research worksheet](./job-research.md).
+
+## Inspect current title examples
+
+The expanded [emerging-title research](./opportunities/emerging-titles.md) looks at AI-native engineering, platform/harness work, AI enablement, growth intelligence, agents, and inference. The [real-job directory](./opportunities/index.md) separates internships, early-career, mid-level, and senior/staff examples with dated sources. It is a research snapshot rather than a live list of vacancies.

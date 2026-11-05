@@ -1,6 +1,20 @@
 # Build your learning path
 
-An adaptable eight-week practice plan, not a promise of job readiness. Extend each phase if you need stronger foundations.
+Choose your route first. The practice schedule below is adaptable and is not a promise of job readiness.
+
+## Choose a route
+
+| Starting point | Focus | Reality check |
+| --- | --- | --- |
+| Undergraduate student | Fundamentals, a scoped team/project contribution, and internship research | Check return-to-school rules and term length in the [internship examples](./opportunities/internships.md). |
+| Graduate student | Connect research depth to reproducible software and evaluation | Some internships require advanced study and prior deployment experience. |
+| Recent graduate | A shipped project, clear evaluation, and concise technical explanations | Compare explicit no-experience roles with internship-gated new-grad roles in the [early-career examples](./opportunities/entry-level.md). |
+| Experienced software developer | Model behavior, retrieval, evaluation, operations, and domain learning | Investigate [mid-level roles](./opportunities/mid-level.md) where your existing engineering experience may transfer. |
+| Career changer without software experience | Learn a language, APIs, Git, testing, and debugging before a full AI application | A portfolio does not waive explicit experience or degree requirements. |
+
+## An eight-week project cycle
+
+Extend each phase if you need stronger foundations. A beginner may need a separate foundations period before this cycle.
 
 | Phase | Practice | Evidence to keep |
 | --- | --- | --- |
