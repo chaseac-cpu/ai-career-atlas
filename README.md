@@ -40,6 +40,8 @@ Pushes to main run `.github/workflows/deploy.yml`, build the site, and deploy `d
 
 ## Contribute
 
+See the [peer review decision history](PEER-REVIEW.md) for issue decisions, changes, verification, and reviewer retry status.
+
 Edit Markdown in `docs/`. Include original employer links and dates for research changes. Distinguish observed titles from editorial suggestions. Run `npm run docs:build` before submitting a pull request.
 
 Job directory metadata is in `docs/data/jobs.json`. Update the matching Markdown cards in `docs/opportunities/` as well. Preserve employer wording on level and eligibility; clearly label editorial interpretations. An application page being visible is not confirmation that hiring remains open.
