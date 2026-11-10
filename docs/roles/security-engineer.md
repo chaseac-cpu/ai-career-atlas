@@ -22,6 +22,6 @@ Is the scope application security, model safety, infrastructure, or incident res
 
 ## Title evidence
 
-**Related observed title: Applied AI Security Architect.** [Employer source](https://www.anthropic.com/careers/jobs). Reviewed November 5, 2026. The source establishes the title example or adjacent naming; our broader summary and project advice are editorial synthesis, not a reproduction of the posting.
+**Related observed title: Applied AI Security Architect - Healthcare & Life Sciences.** [Anthropic posting 5461873008](https://job-boards.greenhouse.io/anthropic/jobs/5461873008). Title and detail page checked November 10, 2026. This replaces the earlier board citation; the original November 5 posting identity was not retained. Broader guidance remains editorial synthesis.
 
 [Compare all roles](./index.md) · [Build a learning plan](../learning-path.md)

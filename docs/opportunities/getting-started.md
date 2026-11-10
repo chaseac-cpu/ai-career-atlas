@@ -48,3 +48,5 @@ Projects can demonstrate skills; they do not replace an explicit degree, enrollm
 Open the original posting. Confirm it is still accepting applications, check dates and location, separate required from preferred skills, and ask about unclear work-authorization or sponsorship details. Use the [job research worksheet](../job-research.md).
 
 Then choose a [learning path](../learning-path.md) that fits your starting point and one [portfolio experiment](../portfolio.md). The collection is a dated snapshot, not a live vacancy feed.
+
+New to coding? Follow the [first application walkthrough](../learning-path.md#your-first-application-step-by-step), from a local FAQ lookup to a measured portfolio project.

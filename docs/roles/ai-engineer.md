@@ -22,8 +22,10 @@ Does the team use existing models or train them? Who owns evaluation?
 
 ## Title evidence
 
+The [worked evidence matrix](../job-research.md#worked-application-and-agent-comparison) connects the three examples below to required skills, preferred skills, and editorial portfolio responses.
+
 Compare the [NewsBreak new-graduate](../opportunities/entry-level.md#newsbreak-applied-newgrad), [BPD mid-level](../opportunities/mid-level.md#bpd-mid-ai), and [Scale senior agent](../opportunities/senior.md#scale-frontier-senior) examples. The employers, requirements, and scope differ; these are comparison points rather than one promotion ladder.
 
-**Observed title family: Applied AI Engineer.** [Employer source](https://www.anthropic.com/careers/jobs). Reviewed November 5, 2026. The source establishes the title example or adjacent naming; our broader summary and project advice are editorial synthesis, not a reproduction of the posting.
+**Observed title family: Applied AI Engineer, Enterprise.** [Anthropic posting 5057647008-0](https://job-boards.greenhouse.io/anthropic/jobs/5057647008-0). Title and detail page checked November 10, 2026. This replaces the earlier board citation; the original November 5 posting identity was not retained. Broader guidance remains editorial synthesis.
 
 [Compare all roles](./index.md) · [Build a learning plan](../learning-path.md)

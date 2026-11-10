@@ -22,6 +22,6 @@ What requires approval? How are failures recovered? Is the workflow deterministi
 
 ## Title evidence
 
-**Editorial family; adjacent observed title: AI Systems Engineer, Codex Agents.** [Employer source](https://openai.com/careers/search/). Reviewed November 5, 2026. The source establishes the title example or adjacent naming; our broader summary and project advice are editorial synthesis, not a reproduction of the posting.
+**Editorial role family.** No identifiable posting is cited for this heading. The earlier board reference did not retain a detail URL or posting ID, so the observed-title claim is withdrawn. Citation limitation reviewed November 10, 2026; practice advice remains editorial.
 
 [Compare all roles](./index.md) · [Build a learning plan](../learning-path.md)

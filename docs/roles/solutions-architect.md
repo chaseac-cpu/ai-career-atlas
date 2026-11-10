@@ -22,6 +22,6 @@ Is success measured by sales, adoption, or production outcomes?
 
 ## Title evidence
 
-**Related observed title: Applied AI Architect.** [Employer source](https://www.anthropic.com/careers/jobs). Reviewed November 5, 2026. The source establishes the title example or adjacent naming; our broader summary and project advice are editorial synthesis, not a reproduction of the posting.
+**Related observed title: Applied AI Architect, Commercial.** [Anthropic posting 5192805008](https://job-boards.greenhouse.io/anthropic/jobs/5192805008). Title and detail page checked November 10, 2026. This replaces the earlier board citation; the original November 5 posting identity was not retained. Broader guidance remains editorial synthesis.
 
 [Compare all roles](./index.md) · [Build a learning plan](../learning-path.md)

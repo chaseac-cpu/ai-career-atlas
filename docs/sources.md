@@ -5,9 +5,11 @@
 | Primary source | What it supports |
 | --- | --- |
 | [Anthropic: Forward Deployed Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5391016008-109) | FDE title and customer-embedded delivery example. |
-| [Anthropic careers](https://www.anthropic.com/careers/jobs) | Applied AI Engineer, Applied AI Architect, and Applied AI Security Architect naming. |
+| [Anthropic: Applied AI Engineer, Enterprise](https://job-boards.greenhouse.io/anthropic/jobs/5057647008-0) | Posting ID 5057647008-0; title/detail checked November 10, 2026. Replaces the earlier board citation. |
+| [Anthropic: Applied AI Architect, Commercial](https://job-boards.greenhouse.io/anthropic/jobs/5192805008) | Posting ID 5192805008; title/detail checked November 10, 2026. Replaces the earlier board citation. |
+| [Anthropic: Applied AI Security Architect - Healthcare & Life Sciences](https://job-boards.greenhouse.io/anthropic/jobs/5461873008) | Posting ID 5461873008; title/detail checked November 10, 2026. Replaces the earlier board citation. |
 | [Anthropic: Cyber Evaluations Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5406367008) | Specialized evaluation engineering title. |
-| [OpenAI careers](https://openai.com/careers/search/) | Systems titles including AI Systems Engineer, Codex Agents. |
+| Earlier OpenAI board citation | Original detail URL and posting ID were not retained. The systems-title claim is withdrawn; agent engineering and product management remain editorial families. |
 | [Google: Machine Learning Engineer](https://www.google.com/about/careers/applications/jobs/results/132867596763439814-machine-learning-engineer/) | Established ML Engineer title example. |
 | [VitePress deployment guide](https://vitepress.dev/guide/deploy) | Technical deployment guidance. |
 
@@ -34,6 +36,30 @@ The collection contains seven internships/co-ops, seven entry/early-career examp
 Compensation retains the displayed currency, unit, geography, and relevant caveats. We do not annualize hourly rates, convert an annualized internship salary into internship earnings, assume an unlabeled pay period, or rank ranges as equivalent offers. Benefits, equity, bonuses, and geographic bands differ. Unmentioned sponsorship or eligibility is unknown.
 
 All job summaries are concise paraphrases. Portfolio ideas are our advice, not employer requirements. Data is maintained in `docs/data/jobs.json`; the individual cards and directory should be updated together when sources change.
+
+### Search and selection log
+
+This log was reconstructed November 10, 2026 from the checked cards and repository records. The recorded employer-page check date is November 5, 2026; exact discovery timestamps, original query strings, result ordering, and the total candidate pool were not retained. We cannot claim an exact replay of the original search or calculate a selection rate.
+
+| Date / provenance | Search or selection step | Decision / reproducibility limit |
+| --- | --- | --- |
+| November 5, 2026: recorded checks | Discover AI application, agent, ML infrastructure, and customer-delivery examples using search and employer boards | Search and board inspection are documented above; exact historical queries are unavailable. |
+| Suggested repeat queries, documented November 10, 2026 | `"AI engineer" "intern" "United States"`; `"applied AI" "new grad"`; `"forward deployed" "new graduate"`; `"agent" "senior" site:job-boards.greenhouse.io`; `"AI engineer" "mid-level"` | These are repeat-search suggestions, not a claim that these exact strings were used originally. Save the query, engine, date, URL, and inclusion/exclusion reason for each future candidate. |
+| November 5, 2026: recorded inclusion checks | Employer or recruiting-platform detail page; U.S. location or explicitly U.S.-remote; relevant AI work; description and application route visible | Exclude non-U.S. examples and unverified board redirects; retain ambiguous eligibility, location, and pay with caveats. Visibility does not confirm active hiring. |
+| November 10, 2026: editorial explanation of the retained balance | Seven internships/co-ops, seven entry/early-career, four mid-level, four senior/staff | The retained balance gives students more early-route comparison points while showing experienced scope. No original quota decision log survives; this explains the sample's educational use, not a documented pre-search sampling plan. |
+
+#### Coverage by work family
+
+The following editorial tags were assigned November 10, 2026 to all 22 records using their recorded work summaries. Tags overlap, so rows do not sum to 22. They describe work, not standardized occupations or hiring demand; the named membership makes the counts auditable.
+
+| Work-family tag | Examples | Count |
+| --- | --- | --- |
+| AI applications / workflows / agents | Klaviyo, Inversion, Datacor, The Nuclear Company, Schonfeld, DV Trading, NewsBreak Applied AI, NewsBreak Growth, Scale New Grad, CLEAR, Palantir, Valtech, BPD, Implicit, Impiricus, Divergent, Scale Frontier Agents, Scale General Agents | 18 |
+| ML infrastructure / inference / platforms | Samsung, NewsBreak ML Infra, Air, LTS | 4 |
+| Customer delivery / enablement | CLEAR, Palantir, Valtech, Divergent, Scale Frontier Agents | 5 |
+| Dedicated evaluation / harness platform | LTS | 1 |
+
+Evaluation also occurs within broader engineering roles, so the dedicated-platform count is not the number of jobs involving evaluation. The sample emphasizes engineering and repeats NewsBreak and Scale; it has no dedicated product-manager, security-specialist, governance, design, or research-scientist posting. Add those families and more employers/industries in future research before comparing their entry routes. Their absence here is a coverage gap, not evidence that those jobs do not exist.
 
 ### Results excluded or flagged
 

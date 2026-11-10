@@ -30,7 +30,20 @@ Extend each phase if you need stronger foundations. A beginner may need a separa
 - **Coming from a domain role:** use workflow knowledge to define a valuable problem, then build technical depth or investigate product work.
 - **Interested in model research:** add linear algebra, probability, optimization, and paper reproduction; this plan alone is insufficient.
 
-## Completion check
+## Your first application, step by step
+
+Start with a local FAQ lookup before adding a model. Retrieval means finding relevant source text; an API lets programs exchange requests and responses.
+
+1. Create a Git repository and a Python or JavaScript script. Store three public FAQ questions, answers, and source URLs in a JSON file; record the data license.
+2. Read the file and return an answer for an exact matching question. A fictional practice fixture could contain “Monday opening time: 09:00”; label it synthetic.
+3. Return “No matching source” for an unknown question. Test a known question, an unknown question, and empty input against written expected outputs.
+4. Add keyword lookup and return the source URL. Record where it performs worse than exact matching, such as ambiguous questions.
+5. Write setup instructions and ask a classmate to reproduce the tests. Fix one problem they encounter.
+6. Extend this into the [answer-engine project](./portfolio.md#an-answer-engine-with-evidence), keeping the lookup as your baseline and using its evaluation worksheet.
+
+For application engineering, add an API and a small interface. For evaluation work, expand the test questions and analyze failures. For customer delivery, write a user brief and revise the tool from feedback. These are practice routes: projects do not replace the enrollment, degree, or experience gates in the [beginner hub](./opportunities/getting-started.md). Progress by reproducible results rather than a promised employment timeline.
+
+## Final project check
 
 Can another person reproduce your project? Can you explain why it helps, when it fails, what it costs, and what you would change? Improve that evidence before adding another framework.
 

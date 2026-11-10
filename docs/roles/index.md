@@ -15,6 +15,8 @@ Choose the work you want to own. These broad families are not standardized indus
 
 ## Choose an experiment
 
+See the [worked job-to-skill evidence matrix](../job-research.md#worked-application-and-agent-comparison) for three application/agent examples, with required skills, preferred skills, seniority, and editorial project advice kept distinct.
+
 To connect these broad role families to employer wording, browse the [22 real job examples](../opportunities/index.md), the [internship and entry-level hub](../opportunities/getting-started.md), and the [comparison of experience levels](../opportunities/levels.md).
 
 Read two guides that interest you, then try one small project. Compare your enjoyment of the actual work, your existing experience, and the requirements in local postings. These guides are navigation suggestions, not aptitude assessments.
